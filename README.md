@@ -1,1 +1,5 @@
 # CMD
+
+```
+netstat -ano
+```
